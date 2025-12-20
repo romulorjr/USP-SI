@@ -29,10 +29,5 @@ Para que o código funcione corretamente, o notebook espera encontrar os dados n
 - **Bibliotecas:** `Pandas`, `NumPy`, `Scikit-learn`, `Matplotlib`, `Seaborn`.
 - **Ambiente:** Google Colaboratory.
 
-## Estrutura desta pasta
-- `/Codigos`: Notebooks `.ipynb` com as análises.
-- `/Enunciados`: PDFs com as instruções dos trabalhos e listas.
-- `README.md`: Este arquivo com o resumo da disciplina.
-
 ---
 [⬅ Voltar para o menu principal](../../README.md)
