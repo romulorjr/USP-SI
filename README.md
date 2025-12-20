@@ -1,6 +1,6 @@
 # 🎓 Sistemas de Informação - USP (EACH)
 
-Repositório central para armazenamento de EPs, projetos e exercícios realizados durante a graduação.
+Este repositório contém os projetos, Exercícios-Programa (EPs) e materiais desenvolvidos durante a minha graduação na USP. O objetivo é registrar minha evolução técnica e acadêmica.
 
 ---
 
