@@ -1,0 +1,19 @@
+# Arquivos compilados e executáveis
+*.exe
+*.o
+*.out
+*.class
+*.jar
+
+# Pastas de IDEs (VS Code, IntelliJ, etc)
+.vscode/
+.idea/
+bin/
+obj/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
