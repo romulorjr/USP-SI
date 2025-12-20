@@ -1,0 +1,3 @@
+[submodule "Semestre-04/BD-Banco-de-Dados"]
+	path = Semestre-04/BD-Banco-de-Dados
+	url = https://github.com/Andressa-Nardy/Banco-de-Dados-Biblioteca.git
