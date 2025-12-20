@@ -1,0 +1,19 @@
+# Nome dos arquivos Java
+SOURCES := $(wildcard *.java)
+CLASSES := $(SOURCES:.java=.class)
+MAIN := Main
+
+# Alvo padrão: compila e executa
+all: compile run
+
+# Compilar todos os .java
+compile:
+	javac $(SOURCES)
+
+# Executar a classe Main
+run:
+	java $(MAIN)
+
+# Limpar arquivos .class
+clean:
+	rm -f *.class

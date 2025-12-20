@@ -1,0 +1,16 @@
+Compare o assembly de diferentes arquiteturas usando os programas dados.
+Condições de conclusão
+Procedimento
+
+1. Descreva brevemente cada uma das arquiteturas: nome, tamanho da palavra, denominação dos registradores (pois isto aparece no assembly), referência (web) para o conjunto de instruções; 
+
+2. Use a ferramenta em https://godbolt.org/ para compilar os programas em C para Assembly em ao menos duas arquiteturas diferentes. (Não serão aceitas entregas com duas versões diferentes da(s) mesma(s) arquitetura(s)). 
+
+3. Alinhe os programas em assembly para mostrar os trechos dos programas que são equivalentes (e correspondem a comandos em C);
+
+4. Explique o que cada comando faz. Na primeira ocorrência do comando, inclua link para a referência (web) que usou (se houver referência para o conjunto de instruções, apontar para a págia específica da instrução);
+
+5. Ao final, comente as diferenças entre os programas no que concerne ao uso de registradores, a instruções existentes/inexistentes nas arquiteturas, a maneira como argumentos são passados para funções, como são feitas chamadas (de função) para o SO, a maneira como tipos de dados (int, double, array) são tratados, ...
+
+O EP pode ser feito em grupo, desde que cada pessoa tenha trabalhado em ao menos uma arquitetura. Isto é, se o grupo tiver uma pessoa, ao menos duas arquiteturas devem ser comparadas, se o grupo tiver duas pessoas, ao menos duas arquiteturas devem ser comparadas, se o grupo tiver (n=três) ou mais pessoas, n ou mais arquiteturas devem ser comparadas.
+Acredito que este trabalho seja interessante de ser feito, a quantidade de trabalho seja adequada e a experiência possa ser aproveitada no futuro - espero que todos façam o trabalho. MAS trabalhos muito parecidos (a medida do "muito" será dada por algum software que detecta plágio), receberão nota zero.

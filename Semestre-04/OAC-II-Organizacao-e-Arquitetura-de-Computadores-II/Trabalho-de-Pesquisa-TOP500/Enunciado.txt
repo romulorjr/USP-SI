@@ -1,0 +1,25 @@
+Este projeto tem como objetivos: 
+
+- Analisar a organização e a arquitetura de computadores que integram a lista TOP500- Lista de JUNHO de 2025(https://www.top500.org/lists/2025/06/) considerando os conceitos estudados no curso e
+
+ - Estudar a metodologia que avalia o desempenho dessas máquinas e as classificam dentro desta lista.
+
+ Informações gerais: 
+
+O projeto será realizado em duplas, no máximo. Os alunos da Turma 02 devem informar até o dia 29/10 os integrantes da dupla. Para isso deverão editar, logados com seu email USP, a seguinte planilha:
+
+https://docs.google.com/spreadsheets/d/1jjXBTRqom0Qq-7R1jgO_rQP1VnoBGfG-q7-qlXUdZUc/edit?gid=0#gid=0
+ Após esse dia, as duplas serão formadas aleatoriamente e publicadas no E-disciplinas. Cada dupla será notificada pela professora sobre o computador que será objeto de estudo.
+
+Artigo
+
+ O artigo de pesquisa deverá possuir formato condizente com um relatório científico, contendo uma introdução, desenvolvimento das seções, conclusão e referências bibliográficas. O artigo pode ser no formato de duas colunas (8 a 10 páginas) ou de coluna única (15 a 20 páginas) no total. Os seguintes aspectos deverão ser abordados neste projeto e apresentados no artigo:
+
+ 1) Qual a metodologia de avaliação utilizada pelo TOP500? Apresente e descreva as métricas utilizadas, assim como os benchmarks (quais são, suas características, qual métrica avalia, etc).
+
+ 2) Discuta a organização e arquitetura do computador selecionado utilizando os conceitos da disciplina e também fazendo pesquisas adicionais.
+
+ 3) Descreva o projeto de acordo com as fases do histórico de seu desenvolvimento e seus aspectos de implementação (empresa/órgão desenvolvedor e financiador, custo, data de início do projeto, posições já ocupadas no ranking, etc).
+
+4) Descreva as ferramentas computacionais utilizadas desde o nível mais básico (sistema operacional) até aplicações e linguagens de alto nível utilizadas sobre a plataforma. Discuta como se dá a execução de um programa que explora o paralelismo inter máquinas e intra máquinas, ou seja, como se gera um programa para essa plataforma (que linguagens, ferramentas) e como esse(s) processo(s) requisitam e utilizam os recursos (CPUs, memória, sistemas de armazenamento em disco) durante a execução do mesmo. Um exemplo que pode ser explorado é como o próprio Linpack é implementado e executado.
+

@@ -1,0 +1,201 @@
+Numero de problemas ainda nao resolvidos: 10
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   1	   0	    0
+   2	   0	    0
+   3	   0	    0
+   4	   0	    0
+   5	   0	    0
+Time:   1; solucoes:  0; penalidade:     0
+	[ 0:  0   0   0]
+	[ 1:  0   0   0]
+	[ 2:  0   0   0]
+	[ 3:  0   0   0]
+	[ 4:  0   0   0]
+	[ 5:  0   0   0]
+	[ 6:  0   0   0]
+	[ 7:  0   0   0]
+	[ 8:  0   0   0]
+	[ 9:  0   0   0]
+
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   1	   0	    0
+   2	   0	    0
+   3	   0	    0
+   4	   0	    0
+   5	   0	    0
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   2	   1	   55
+   1	   0	    0
+   3	   0	    0
+   4	   0	    0
+   5	   0	    0
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   4	   1	   40
+   2	   1	   55
+   1	   0	    0
+   3	   0	    0
+   5	   0	    0
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   4	   1	   40
+   5	   1	   40
+   2	   1	   55
+   1	   0	    0
+   3	   0	    0
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   4	   1	   40
+   5	   1	   40
+   2	   1	   55
+   1	   0	    0
+   3	   0	    0
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   4	   1	   40
+   5	   1	   40
+   2	   1	   55
+   1	   0	    0
+   3	   0	    0
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   5	   2	  140
+   4	   1	   40
+   2	   1	   55
+   1	   0	    0
+   3	   0	    0
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   5	   2	  140
+   4	   1	   40
+   2	   1	   55
+   1	   0	    0
+   3	   0	    0
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   5	   2	  140
+   4	   1	   40
+   2	   1	   55
+   3	   1	   70
+   1	   0	    0
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   5	   2	  140
+   4	   1	   40
+   2	   1	   55
+   3	   1	   70
+   1	   1	   75
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   5	   3	  230
+   4	   1	   40
+   2	   1	   55
+   3	   1	   70
+   1	   1	   75
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   5	   3	  230
+   1	   2	  170
+   4	   1	   40
+   2	   1	   55
+   3	   1	   70
+
+Classificacao Atual:
+Time	Prob.	Penalidadade
+   5	   3	  230
+   1	   2	  170
+   4	   1	   40
+   2	   1	   55
+   3	   1	   70
+##### EXIBINDO TODOS OS TIMES #####
+Time:   5; solucoes:  3; penalidade:   230
+	[ 0:  0   0   0]
+	[ 1:  0   1   0]
+	[ 2:  1   3  60]
+	[ 3:  0   0   0]
+	[ 4:  1   1  40]
+	[ 5:  0   0   0]
+	[ 6:  0   0   0]
+	[ 7:  1   1  90]
+	[ 8:  0   0   0]
+	[ 9:  0   0   0]
+
+Time:   1; solucoes:  2; penalidade:   170
+	[ 0:  0   0   0]
+	[ 1:  1   1  95]
+	[ 2:  0   0   0]
+	[ 3:  0   0   0]
+	[ 4:  0   0   0]
+	[ 5:  0   0   0]
+	[ 6:  0   0   0]
+	[ 7:  0   1   0]
+	[ 8:  1   1  75]
+	[ 9:  0   0   0]
+
+Time:   4; solucoes:  1; penalidade:    40
+	[ 0:  0   0   0]
+	[ 1:  0   0   0]
+	[ 2:  1   1  40]
+	[ 3:  0   0   0]
+	[ 4:  0   0   0]
+	[ 5:  0   0   0]
+	[ 6:  0   0   0]
+	[ 7:  0   0   0]
+	[ 8:  0   0   0]
+	[ 9:  0   0   0]
+
+Time:   2; solucoes:  1; penalidade:    55
+	[ 0:  0   0   0]
+	[ 1:  0   0   0]
+	[ 2:  0   0   0]
+	[ 3:  1   2  35]
+	[ 4:  0   0   0]
+	[ 5:  0   0   0]
+	[ 6:  0   0   0]
+	[ 7:  0   0   0]
+	[ 8:  0   0   0]
+	[ 9:  0   0   0]
+
+Time:   3; solucoes:  1; penalidade:    70
+	[ 0:  0   0   0]
+	[ 1:  0   0   0]
+	[ 2:  0   0   0]
+	[ 3:  0   0   0]
+	[ 4:  0   0   0]
+	[ 5:  0   0   0]
+	[ 6:  0   0   0]
+	[ 7:  0   0   0]
+	[ 8:  1   1  70]
+	[ 9:  0   0   0]
+
+Numero de problemas ainda nao resolvidos: 4
+
+Campeao:
+Time:   5; solucoes:  3; penalidade:   230
+	[ 0:  0   0   0]
+	[ 1:  0   1   0]
+	[ 2:  1   3  60]
+	[ 3:  0   0   0]
+	[ 4:  1   1  40]
+	[ 5:  0   0   0]
+	[ 6:  0   0   0]
+	[ 7:  1   1  90]
+	[ 8:  0   0   0]
+	[ 9:  0   0   0]
+
